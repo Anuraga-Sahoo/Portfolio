@@ -13,16 +13,16 @@ const SkilsBtn = () => {
     <>
       <div className="skilContainer">
         <div className="skills  grid grid-cols-5 gap-1 w-[40rem] ">
-          <Button flag={false}  name={"Java"} icon={<RiJavaLine className='h-[2rem] w-[2rem]'/>}/>
-          <Button flag={false}  name={"JavaScript"} icon={<RiJavascriptFill className='h-[2rem] w-[2rem]'/>}/>
-          <Button flag={false}  name={"HTML 5"} icon={ <FaHtml5 className='h-[2rem] w-[2rem]'/>}/>
-          <Button flag={false}  name={"CSS 3"} icon={<IoLogoCss3 className='h-[2rem] w-[2rem]'/>}/>
-          <Button flag={false}  name={"Tailwind"} icon={<SiTailwindcss className='h-[2rem] w-[2rem]'/>}/>
-          <Button flag={false}  name={"React.js"} icon={<FaReact className='h-[2rem] w-[2rem]' />}/>
-          <Button flag={false}  name={"Node.js"} icon={<FaNode className='h-[2rem] w-[2rem]'/>}/>
-          <Button flag={false}  name={"Express"} icon={<SiExpress className='h-[2rem] w-[2rem]'/>}/>
-          <Button flag={false}  name={"Mongo DB"} icon={<SiMongodb className='h-[2rem] w-[2rem]'/>}/>
-          <Button flag={false}  name={"My Sql"} icon={<SiMysql className='h-[2rem] w-[2rem]'/>}/>
+          <Button flag={false}  name={"Java"} icon={<RiJavaLine className='h-[2rem] w-[2rem] '/>}/>
+          <Button flag={false}  name={"JavaScript"} icon={<RiJavascriptFill className='h-[2rem] w-[2rem] '/>}/>
+          <Button flag={false}  name={"HTML 5"} icon={ <FaHtml5 className='h-[2rem] w-[2rem] '/>}/>
+          <Button flag={false}  name={"CSS 3"} icon={<IoLogoCss3 className='h-[2rem] w-[2rem] '/>}/>
+          <Button flag={false}  name={"Tailwind"} icon={<SiTailwindcss className='h-[2rem] w-[2rem] '/>}/>
+          <Button flag={false}  name={"React.js"} icon={<FaReact className='h-[2rem] w-[2rem] ' />}/>
+          <Button flag={false}  name={"Node.js"} icon={<FaNode className='h-[2rem] w-[2rem] '/>}/>
+          <Button flag={false}  name={"Express"} icon={<SiExpress className='h-[2rem] w-[2rem] '/>}/>
+          <Button flag={false}  name={"Mongo DB"} icon={<SiMongodb className='h-[2rem] w-[2rem] '/>}/>
+          <Button flag={false}  name={"My Sql"} icon={<SiMysql className='h-[2rem] w-[2rem] '/>}/>
           <Button flag={false}  name={"Git"} icon={<FaGitAlt className='h-[2rem] w-[2rem]' />}/>
 
         </div>
