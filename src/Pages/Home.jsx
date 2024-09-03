@@ -2,6 +2,7 @@ import React from 'react'
 import HeroBanner from '../components/HeroBanner'
 import SkilsBtn from '../components/SkilsBtn'
 import Aboutme from '../components/Aboutme'
+import Project from '../components/Project'
 
 const Home = () => {
   return (
@@ -20,6 +21,7 @@ const Home = () => {
         <Aboutme/>
       </div>
       </div>
+      <Project/>
     </>
   )
 }

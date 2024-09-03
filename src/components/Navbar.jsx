@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <>
     {/* <nav className='sticky'> */}
-      <div className="navcontainer  h-[4.5rem] flex justify-around shadow-lg bg-white shadow-gray-100 sticky top-0">
+      <div className="navcontainer  h-[4.5rem] flex justify-around shadow-lg bg-white shadow-gray-100 sticky top-0 z-50">
         <div className="navlogo flex gap-2 items-center justify-center w-[18rem] text-black text-xl ">
           <Link><img src="/myimage.jpeg" 
           alt="myImage" 
