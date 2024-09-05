@@ -59,7 +59,7 @@ let handleClick3 = () =>{
   
   return (
     <>
-      <div className="project bg-black text-white flex flex-col px-[15rem] ">
+      <div className="project bg-black text-white flex flex-col px-[15rem]  ">
         <div className="heading p-5 m-10">
           <h2 className="text-3xl font-bold mb-3">My Projects</h2>
           <p className="mb-3">

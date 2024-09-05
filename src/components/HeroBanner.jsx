@@ -22,14 +22,16 @@ const HeroBanner = () => {
                 <h1 className='leading-8 text-4xl mt-4'> <span>Based in</span> <span className='font-bold' >India.</span></h1>
           </div>
           <div className="para">
-            <p className='leading-2 mt-4'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate repellat quae deleniti dolor veritatis vel id, voluptatibus, suscipit veniam debitis non eligendi sit, explicabo illo quis. Rerum ex aut necessitatibus.</p>
+            <p className='leading-2 mt-4'>I am a Master's in Computer Applications graduate with a strong foundation in web development and software engineering. Proficient in a range of technologies including React.js, Node.js, express.js, MongoDB, and Tailwind CSS.
+
+</p>
           </div>
 
         </div>
         <div className="image">
           <img src="/heroImage.jpg"
            alt="Hero image"
-           className='h-[26rem]'
+           className='h-[25rem]'
             />
         </div>
       </div>
